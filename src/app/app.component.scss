@@ -1,0 +1,22 @@
+ul {
+  padding: .5em;
+  margin: 0;
+  background: crimson;
+  display: flex;
+
+  li {
+    display: block;
+    padding: .5em;
+  }
+
+  a {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: larger;
+    line-height: 36px;
+  }
+}
+
+main {
+  padding: 1em;
+}
