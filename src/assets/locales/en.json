@@ -1,0 +1,17 @@
+{
+  "HOME": "Home",
+  "HOME_TEXT": "Home works!",
+  "ABOUT": "About",
+  "ABOUT_TEXT": "About works!",
+  "LAZY": "Lazy",
+  "LAZY_HOME": "Lazy Home",
+  "LAZY_HOME_TEXT": "Lazy Home works!",
+  "LAZY_ABOUT": "Lazy About",
+  "LAZY_ABOUT_TEXT": "Lazy About works!",
+  "LAZY_SUB": "Lazy submodule",
+  "LAZY_SUB_HOME": "Lazy Sub Home",
+  "LAZY_SUB_HOME_TEXT": "Lazy Sub Home works!",
+  "LAZY_SUB_ABOUT": "Lazy Sub About",
+  "LAZY_SUB_ABOUT_TEXT": "Lazy Sub About works!",
+  "MAIN_CONTAINER": "Main container"
+}
