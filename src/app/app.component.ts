@@ -8,6 +8,10 @@ import { LocalizeRouterService } from 'localize-router';
 })
 export class AppComponent {
   constructor(private localize: LocalizeRouterService) {
-    console.log('ROUTES', this.localize.parser.routes);
+    console.log('PARSER ROUTES', this.localize.parser.routes);
+  }
+
+  changeLanguage(lang: string) {
+    this.localize.changeLanguage(lang);
   }
 }

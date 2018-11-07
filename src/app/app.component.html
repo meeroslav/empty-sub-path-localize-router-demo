@@ -22,6 +22,10 @@
     <a [routerLink]="'/rs'">RS</a>
   </li>
 </ul>
+<ul>
+  <li><button type="button" (click)="changeLanguage('en')">translate to EN</button></li>
+  <li><button type="button" (click)="changeLanguage('rs')">prevedi na RS</button></li>
+</ul>
 <main>
   <router-outlet></router-outlet>
 </main>
