@@ -13,5 +13,10 @@
   "LAZY_SUB_HOME_TEXT": "Lazy Sub Home works!",
   "LAZY_SUB_ABOUT": "Lazy Sub About",
   "LAZY_SUB_ABOUT_TEXT": "Lazy Sub About works!",
-  "MAIN_CONTAINER": "Main container"
+  "MAIN_CONTAINER": "Main container",
+
+  "ROUTES.about": "about",
+  "ROUTES.lazy": "lazy",
+  "ROUTES.lazy-sub": "lazy-sub"
+
 }

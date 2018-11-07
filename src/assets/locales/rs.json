@@ -13,5 +13,9 @@
   "LAZY_SUB_HOME_TEXT": "Lenji podmodul početna strana radi!",
   "LAZY_SUB_ABOUT": "Lenji podmodul o nama",
   "LAZY_SUB_ABOUT_TEXT": "Lenji podmodul o nama radi!",
-  "MAIN_CONTAINER": "Glavni kontejner"
+  "MAIN_CONTAINER": "Glavni kontejner",
+
+  "ROUTES.about": "o-nama",
+  "ROUTES.lazy": "lenji",
+  "ROUTES.lazy-sub": "lenji-pod"
 }

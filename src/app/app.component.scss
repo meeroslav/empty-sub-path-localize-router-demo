@@ -9,6 +9,10 @@ ul {
     padding: .5em;
   }
 
+  li.fill {
+    flex: 1;
+  }
+
   a {
     text-decoration: none;
     color: aliceblue;
